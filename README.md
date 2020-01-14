@@ -1,2 +1,2 @@
 # host-piskel
-https://kektor44.github.io/host-piskel/
+https://vladtataritsky.github.io/host-piskel/
